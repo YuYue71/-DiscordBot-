@@ -1,0 +1,2 @@
+# -DiscordBot-
+一個能夠在Discord指定伺服器中設定時間並準時呼叫身分組的DiscirdBot功能
