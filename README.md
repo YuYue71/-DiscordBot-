@@ -22,7 +22,7 @@
 ## 啟動
 - 雙擊`TimerDiscordBot.exe`
 - 等待啟動,如出現下圖畫面表示啟動成功
-
+![](https://github.com/YuYue71/DiscordBotTimerFunction/blob/main/image/b.png)
 
 ## 注意!!重要設定
 - 啟動完成先別急著開心,此時的Bot功能在背景執行時會自動進入凍結狀態,導致功能失常
