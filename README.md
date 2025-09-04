@@ -4,7 +4,9 @@
 ---
 
 # 以下是使用教學
-## 安裝完成以後,檔案結構大概長這樣
+## 安裝
+- 安裝完成以後直接放到一個資料夾中解壓縮
+- 解壓縮完成檔案結構大概長這樣
 ![](https://github.com/YuYue71/DiscordBotTimerFunction/blob/main/image/a.png)
 
 ## 初步設定
