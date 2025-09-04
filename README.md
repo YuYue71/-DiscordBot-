@@ -10,4 +10,14 @@
 ## 初步設定
 - 首先用編輯器打開`config.json`檔案
 - 更改內容:
-  - ```bash ```
+```bash
+{
+    "token": "在此填入你的DiscordBotToken"
+}
+```
+
+## 啟動
+- 雙擊`TimerDiscordBot.exe`
+- 等待啟動,如出現下圖畫面表示啟動成功
+
+## 
