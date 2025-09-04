@@ -3,4 +3,4 @@
 
 # 以下是使用教學
 ## 安裝完成以後,檔案結構大概長這樣
-(https://github.com/YuYue71/DiscordBotTimerFunction/blob/main/image/a.png)
+! (https://github.com/YuYue71/DiscordBotTimerFunction/blob/main/image/a.png)
